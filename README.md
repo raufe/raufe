@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Raufe
 
-Data Scientist em recomeço — voltando à área depois de um tempo fora, remontando meu portfólio com projetos práticos de ponta a ponta.
+Cientista de Dados com passagem por Grupo Boticário, GAVB e Ilumeo — atualmente em transição de carreira, expandindo o portfólio com projetos práticos de ponta a ponta e explorando IA generativa aplicada a problemas reais.
 
 - 🔭 Atualmente trabalhando em um projeto de **análise e controle de orçamento pessoal** com Python, usando a **API do Gemini** para classificar categorias de gastos e gerar insights financeiros
 - 🌱 Aprofundando conhecimentos em **Python, pandas, scikit-learn e IA generativa (LLMs)** aplicados a problemas reais
